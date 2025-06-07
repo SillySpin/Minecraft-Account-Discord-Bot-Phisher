@@ -22,7 +22,6 @@ If a user unknowingly provides this information, the attacker could potentially 
 
 This scenario highlights the importance of never sharing authentication codes and being cautious when interacting with unofficial bots or services. Understanding how such tactics could theoretically work is essential for improving personal cybersecurity and developing better anti-phishing defenses.
 
----
 
 ## 🧾 Help
 <br>
@@ -30,8 +29,6 @@ If you need futher help there is a link to a discord server below.<br>
 <br>
 [Help Server Link](https://discord.com/invite/SwjR85RGUA)<br>
 
-<br>
----
 
 ## 🛠️ How to Run
 
