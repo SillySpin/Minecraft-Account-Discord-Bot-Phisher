@@ -1,9 +1,19 @@
 # Minecraft-Discord-Phisher-Bot
 
-## Disclaimer
-**Usage of Minecraft-Discord-Phisher-Bot for hacking or attacking infrastructures without prior mutual consent can be considered illegal activity. It is the final user's responsibility to obey all applicable local, state, and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.**
+## 📜 Disclaimer
 
-**Note:** Let's not term this <3.
+**This tool is intended strictly for educational, ethical research, and authorized testing purposes only.**  
+Any use of this project for malicious activity—including phishing, unauthorized access, or disruption of services—is strictly forbidden.
+
+Using this tool without explicit, informed, and written consent from all participants may be considered illegal and is a direct violation of this project’s intent.
+
+By using this software, **you agree to take full responsibility** for how it is used. The authors and contributors **assume no liability** for any misuse, harm, or legal consequences.
+
+---
+
+> 🛑 **Note:** Let’s not misuse this. Respect laws, ethics, and each other. ❤️
+
+---
 
 ## What Does It Do?
 A Minecraft phishing Discord bot is a malicious program designed to deceive players and steal their personal information. To initiate the phishing process, the bot requests the user's email and Minecraft username, claiming this information is required for verification or to provide promised rewards or access to a server.
