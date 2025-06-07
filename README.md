@@ -24,9 +24,8 @@ This scenario highlights the importance of never sharing authentication codes an
 
 
 ## 🧾 Help
-<br>
 If you need futher help there is a link to a discord server below.<br>
-<br>
+
 [Help Server Link](https://discord.com/invite/SwjR85RGUA)<br>
 
 
